@@ -50,7 +50,8 @@ Stratblocks eliminates all of that.
 - **Backend**: Python (FastAPI), [Backtrader](https://www.backtrader.com/) (engine core), custom stratblock layer.  
 - **Frontend**: React + Tailwind + [React Flow](https://reactflow.dev/) for graph editing.  
 - **NLP/AI**: spaCy + HuggingFace (parser), GPT models for semantic assembly.  
-- **Infra**: Dockerized services, deployable on AWS/Render/Heroku.  
+- **Infra**: Dockerized services, deployable on AWS/Render/Heroku.
+- **Work OS**: [Work OS](https://workos.com/)
 
 ---
 
