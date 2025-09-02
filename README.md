@@ -1,4 +1,4 @@
-# Stratblocks 🧩**[](https://stratblocks.com)**
+# [Stratblocks 🧩](https://stratblocks.com)
 
 **From trading idea → backtest → insight in under 10 minutes.**
 
