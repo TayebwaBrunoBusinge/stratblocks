@@ -55,29 +55,6 @@ Stratblocks eliminates all of that.
 
 ---
 
-## 📅 Roadmap (4-Month Sprint)
-
-### Phase 1: Parser & Blocks (Weeks 1–4)
-- Trading vocabulary grammar → structured schema (JSON).  
-- Core block library (indicators, signals, risk).  
-- Composition engine + validation layer.  
-
-### Phase 2: Visual Assembly (Weeks 5–8)
-- Auto-generate strategy graphs.  
-- Editable frontend graph UI.  
-- Round-trip sync: Natural Language ↔ Graph ↔ Blocks.  
-
-### Phase 3: Backtester Core (Weeks 9–12)
-- Historical data pipeline (Yahoo/Alpha Vantage).  
-- Fast backtester integration.  
-- Metrics engine + sandbox for strategy comparison.  
-
-### Phase 4: Demo & Polish (Weeks 13–16)
-- Seamless UX: Input → Graph → Backtest → Results.  
-- Advanced features: Monte Carlo, Walk-forward testing.  
-- Public MVP demo + immigration/investor pitch deck.  
-
----
 
 ## 🔮 Vision
 
