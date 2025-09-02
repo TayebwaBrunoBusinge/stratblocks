@@ -1,4 +1,4 @@
-# Stratblocks 🧩
+# Stratblocks 🧩**[](https://stratblocks.com)**
 
 **From trading idea → backtest → insight in under 10 minutes.**
 
@@ -90,7 +90,7 @@ Stratblocks isn’t just a tool — it’s a paradigm shift:
 
 ## 🏗 Status
 
-This is an **active work-in-progress** (4-month focused sprint).  
+This is an **active work-in-progress**.  
 Follow the repo for weekly updates, dev logs, and milestones.  
 
 ---
@@ -106,8 +106,7 @@ Follow the repo for weekly updates, dev logs, and milestones.
 
 ## 📜 License
 
-TBD — likely permissive for research, restricted for commercial redistribution.  
-(Will finalize closer to public MVP release.)
+GNU Affero General Public License v3.0 (AGPLv3)
 
 ---
 
