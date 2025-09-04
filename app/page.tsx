@@ -1,3 +1,4 @@
+import Link from "next/link";
 export default function Home() {
   return (
     <div className="min-h-screen bg-gray-50 flex flex-col items-center justify-center p-6">
@@ -33,9 +34,11 @@ export default function Home() {
           strategies - WITHOUT CODE.
         </p>
         <div className="space-x-4">
-          <button className="px-6 py-3 bg-blue-600 text-white rounded-2xl shadow hover:bg-blue-700 transition">
-            Get Started
-          </button>
+          <Link href="/chat">
+            <button className="px-6 py-3 bg-blue-600 text-white rounded-2xl shadow hover:bg-blue-700 transition ">
+              Get Started
+            </button>
+          </Link>
           <button className="px-6 py-3 bg-gray-200 text-gray-700 rounded-2xl shadow hover:bg-gray-300 transition">
             Learn More
           </button>
